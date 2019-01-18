@@ -11,7 +11,7 @@ def first_element(array)
   ary.first
 end
 
-def my_third_element(array)
+def third_element(array)
   ary = ["What the heck", 25, 99]
   ary[3]
 end
