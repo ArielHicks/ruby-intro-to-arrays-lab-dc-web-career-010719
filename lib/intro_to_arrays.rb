@@ -1,3 +1,3 @@
 def my_new_array
-  array = [1,2,3]
+  array = Array.new
 end
