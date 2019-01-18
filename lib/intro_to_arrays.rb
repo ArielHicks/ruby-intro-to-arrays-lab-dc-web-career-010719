@@ -19,3 +19,4 @@ end
 def last_element(array)
   ary = ["What the heck", 25, "Style"]
   ary.last
+end
