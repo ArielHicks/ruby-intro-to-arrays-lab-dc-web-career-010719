@@ -15,3 +15,6 @@ def third_element(array)
   ary = ["What the heck", 25, "Style"]
   ary[2]
 end
+
+def last_element(array)
+  
