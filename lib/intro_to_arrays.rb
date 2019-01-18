@@ -13,5 +13,5 @@ end
 
 def my_third_element(array)
   ary = ["What the heck", 25, 99]
-  ary[2]
+  ary[3]
 end
