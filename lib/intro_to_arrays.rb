@@ -20,3 +20,8 @@ def last_element(array)
   ary = ["What the heck", 25, "Out of The Woods"]
   ary.last
 end
+
+def first_element_with_array_methods(array)
+  ary = ["What the heck", 25, "Out of The Woods"]
+  ary.first
+end
