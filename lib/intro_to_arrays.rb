@@ -30,3 +30,8 @@ def last_element_with_array_methods(array)
   ary = ["Thailand", 25, "Myanmar"]
   ary.last
 end
+
+def length_of_array(array)
+  ary = ["Thailand", 25, "Myanmar"]
+  ary.length
+end
