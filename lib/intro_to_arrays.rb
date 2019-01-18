@@ -25,3 +25,8 @@ def first_element_with_array_methods(array)
   ary = ["Thailand", 25, "Out of The Woods"]
   ary.first
 end
+
+def last_element_with_array_methods(array)
+  ary = ["Thailand", 25, "Out of The Woods"]
+  ary.last
+end
