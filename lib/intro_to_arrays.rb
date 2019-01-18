@@ -12,6 +12,6 @@ def first_element(array)
 end
 
 def third_element(array)
-  ary = ["What the heck", 25, 99]
+  ary = ["What the heck", 25, "Style"]
   ary[3]
 end
