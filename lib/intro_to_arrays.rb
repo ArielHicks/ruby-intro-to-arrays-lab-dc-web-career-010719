@@ -17,6 +17,6 @@ def third_element(array)
 end
 
 def last_element(array)
-  ary = ["What the heck", 25, "Style"]
+  ary = ["What the heck", 25, "Out of The Woods"]
   ary.last
 end
